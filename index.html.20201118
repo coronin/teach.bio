@@ -148,64 +148,7 @@
 
             <!-- by me -->
             <h4 class="text-gray"><i class="linecons-tag" style="margin-right:7px" id="cail"></i>Public Talks on Teaching and Learning</h4>
-
-<div class="row">
-
-<div class="col-sm-3"><div class="xe-widget xe-conversations box2 label-info" onclick="window.open(
-'https://www.youtube.com/watch?v=O4LmqOHfeB4', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="">
-<div class="xe-comment-entry"><a class="xe-user-img">
-<img alt="" src="assets/images/square/1.png" class="lozad img-circle" width="40">
-</a><span class="label label-info" data-toggle="tooltip" data-placement="left" title="" data-original-title="Hello I am a Tooltip"></span>
-<div class="xe-comment"><a href="#" class="xe-user-name overflowClip_1">
-<strong>2020-11-12</strong></a>
-<p class="overflowClip_2">in chinese</p>
-</div></div></div></div>
-
-<div class="col-sm-3"><div class="xe-widget xe-conversations box2 label-info" onclick="window.open(
-'https://www.youtube.com/watch?v=-FAcQECE2VQ', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="">
-<div class="xe-comment-entry"><a class="xe-user-img">
-<img alt="" src="assets/images/square/1.png" class="lozad img-circle" width="40">
-</a><span class="label label-info" data-toggle="tooltip" data-placement="left" title="" data-original-title="Hello I am a Tooltip"></span>
-<div class="xe-comment"><a href="#" class="xe-user-name overflowClip_1">
-<strong>2020-11-1</strong></a>
-<p class="overflowClip_2">in chinese</p>
-</div></div></div></div>
-
-<div class="col-sm-3"><div class="xe-widget xe-conversations box2 label-info" onclick="window.open(
-'https://www.youtube.com/watch?v=29AsSbibWZE', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="">
-<div class="xe-comment-entry"><a class="xe-user-img">
-<img alt="" src="assets/images/square/1.png" class="lozad img-circle" width="40">
-</a><span class="label label-info" data-toggle="tooltip" data-placement="left" title="" data-original-title="Hello I am a Tooltip"></span>
-<div class="xe-comment"><a href="#" class="xe-user-name overflowClip_1">
-<strong>2020-10-24</strong></a>
-<p class="overflowClip_2">in english</p>
-</div></div></div></div>
-
-<div class="col-sm-3"><div class="xe-widget xe-conversations box2 label-info" onclick="window.open(
-'https://www.youtube.com/watch?v=As9Pi_m3S20', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="">
-<div class="xe-comment-entry"><a class="xe-user-img">
-<img alt="" src="assets/images/square/1.png" class="lozad img-circle" width="40">
-</a><span class="label label-info" data-toggle="tooltip" data-placement="left" title="" data-original-title="Hello I am a Tooltip"></span>
-<div class="xe-comment"><a href="#" class="xe-user-name overflowClip_1">
-<strong>2020-10-23</strong></a>
-<p class="overflowClip_2">in chinese</p>
-</div></div></div></div>
-
-</div>
-
-
             <div class="row">
-
-<div class="col-sm-3"><div class="xe-widget xe-conversations box2 label-info" onclick="window.open(
-'https://www.youtube.com/watch?v=CLUmermnDUc', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="">
-<div class="xe-comment-entry"><a class="xe-user-img">
-<img alt="" src="assets/images/square/1.png" class="lozad img-circle" width="40">
-</a><span class="label label-info" data-toggle="tooltip" data-placement="left" title="" data-original-title="Hello I am a Tooltip"></span>
-<div class="xe-comment"><a href="#" class="xe-user-name overflowClip_1">
-<strong>2020-6-12</strong></a>
-<p class="overflowClip_2">in chinese</p>
-</div></div></div></div>
-
                 <div class="col-sm-3">
                     <div class="xe-widget xe-conversations box2 label-info" onclick="window.open(
 'https://youtu.be/QRYo2goA5vg', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="">
@@ -248,9 +191,6 @@
                                 </a>
                                 <p class="overflowClip_2">with QM standard</p>
                 </div></div></div></div>
-            </div>
-
-            <div class="row">
                 <div class="col-sm-3">
                     <div class="xe-widget xe-conversations box2 label-info" onclick="window.open(
 'https://youtu.be/ZLkwZknz-bc', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="">
@@ -265,6 +205,9 @@
                                 </a>
                                 <p class="overflowClip_2">Ask students to do things in the class room</p>
                 </div></div></div></div>
+            </div>
+
+            <div class="row">
                 <div class="col-sm-3">
                     <div class="xe-widget xe-conversations box2 label-info" onclick="window.open(
 'https://youtu.be/P7vyr7SnhMA', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="">
@@ -293,12 +236,14 @@
                                 </a>
                                 <p class="overflowClip_2">to cultivate future cell biologists</p>
                 </div></div></div></div>
+            <!-- 3 4 -->
             </div>
             <br />
             <!-- END by me -->
 
   <h4 class="text-gray"><i class="linecons-tag" style="margin-right:7px" id="engagement"></i>Student Engagement</h4>
   <div class="row">
+
       <div class="col-sm-3">
       <div class="xe-widget xe-conversations box2 label-info" onclick="window.open(
 'https://actin.cn/2017/03/My-recent-thoughts-and-practice-in-undergraduate-teaching', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="">
